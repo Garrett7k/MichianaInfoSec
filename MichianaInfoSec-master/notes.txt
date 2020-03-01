@@ -1,0 +1,16 @@
+reorganized code (cleaned up HTML, put all styling done to HTML in css),
+
+fixed HTML elements from doing the smooth transition on page load (important as new visitors would experience this, but if you have cookies saved from the website it wont)
+
+fixed transition times for each object to better represent a smooth spacing,   **I have now removed the transitioning as it feels forced and doesnt really fit well with the design I have in mind.**
+
+fixed the image elements so clearspace does not link to forums. Now the actual icons will link when clicked instead of the blank space around them.
+
+fixed resolution on all image elements on the page for easier height/weight/margin placement
+
+added horizontal rule to top michiana infosec icon (border)
+
+fixed broken images on some users visitation to the site.
+
+
+

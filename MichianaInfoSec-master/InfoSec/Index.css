@@ -1,0 +1,50 @@
+body {
+  background-color: #020f18;
+}
+
+.outer-1 {
+  color: white;
+  text-align: center;
+  margin-bottom: -5px;
+}
+
+.inner-1 {
+  color: #ffffff;
+  text-align:center;
+}
+
+.discord {
+  object-fit: scale-down;
+  width: 3%;
+  margin-left: 675px;
+  margin-top: -150px;
+}
+
+.meetup {
+  object-fit: scale-down;
+  width: 3%;
+  margin-left: 125px;
+  margin-top: -150px;
+}
+
+.forum {
+  display: inline-block;
+  margin:auto;
+  margin-left: 675px;
+  
+}
+
+
+hr {
+  border-top: 1px solid white;
+}
+
+.infosec-icon {
+  display: inline-block;
+  margin:auto;
+  margin-left: 375px;
+}
+
+a {
+  text-decoration: none;
+}
